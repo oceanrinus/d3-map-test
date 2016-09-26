@@ -1,0 +1,1 @@
+The [equirectangular projection](http://en.wikipedia.org/wiki/Equirectangular_projection) is available as [d3.geo.equirectangular](https://github.com/mbostock/d3/wiki/Geo-Projections#wiki-equirectangular). See also the [rotating version](/3734273)."# d3-map-test" 
